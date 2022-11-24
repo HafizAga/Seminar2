@@ -1,0 +1,15 @@
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\bin\Debug\net6.0\Домашнее задание 10.exe
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\bin\Debug\net6.0\Домашнее задание 10.deps.json
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\bin\Debug\net6.0\Домашнее задание 10.runtimeconfig.json
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\bin\Debug\net6.0\Домашнее задание 10.dll
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\bin\Debug\net6.0\Домашнее задание 10.pdb
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.csproj.AssemblyReference.cache
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.AssemblyInfoInputs.cache
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.AssemblyInfo.cs
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.csproj.CoreCompileInputs.cache
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.dll
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\refint\Домашнее задание 10.dll
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.pdb
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\Домашнее задание 10.genruntimeconfig.cache
+C:\Users\Зулфизар\Desktop\Семинар 2 C#\Задания\Домашнее задание 10\obj\Debug\net6.0\ref\Домашнее задание 10.dll
